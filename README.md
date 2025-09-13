@@ -6,20 +6,20 @@ Description - The dataset contains data related to direct marketing campaign of 
 
 Target variable-('Y') has or hasn't subscribe to term deposite or no
 features:
-job
-marital 
-education 
-default
-housing 
-loan 
-contact 
-month 
-poutcome 
-age 
-balance 
-day 
-campaign
-pdays 
-previous 
-duration 
+job,
+marital, 
+education, 
+default,
+housing,
+loan ,
+contact, 
+month, 
+poutcome, 
+age, 
+balance, 
+day, 
+campaign,
+pdays, 
+previous, 
+duration. 
 The data consists of 17 attributes.Cleaning and Transformation of data was done.EDA was performed to understand the data more efficiently. The analysis was done with the help of ML models such as KNN classifier, SVM, Logistic regression..... deeper analysis was carried out with the help of neural networks. Conclusions were drawn. the best accuracy holds the value-0.9079 which occured in Random forest(60:40)split. 
